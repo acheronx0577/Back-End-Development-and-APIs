@@ -23,7 +23,7 @@
 	},
 	"dependencies": {
 		"express": "^4.14.0",
-		"@ifreecodecamp/example": "~1.2.13"
+		"@ifreecodecamp/example": "^1.2.13"
 	},
 	"devDependencies": {}
 }
