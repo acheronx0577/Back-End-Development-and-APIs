@@ -1,0 +1,28 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"version": "1.2.0",
+	"description": "This project will be finished by AcheronX0577",
+	"keywords": [
+		"freecodecamp",
+		"AcheronX0577"
+	],
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
+	"bugs": {
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"license": "MIT",
+	"author": "AcheronX0577",
+	"type": "commonjs",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"devDependencies": {}
+}
