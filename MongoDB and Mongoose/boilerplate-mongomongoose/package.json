@@ -1,0 +1,32 @@
+{
+  "name": "fcc-mongo-mongoose-challenges",
+  "version": "0.0.1",
+  "description": "A boilerplate project",
+  "keywords": [
+    "node",
+    "mongoose",
+    "express"
+  ],
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-mongomongoose#readme",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
+  },
+  "license": "MIT",
+  "author": "AcheronX0577",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.12.4",
+    "mongodb": "^7.0.0",
+    "mongoose": "^5.11.15"
+  }
+}
