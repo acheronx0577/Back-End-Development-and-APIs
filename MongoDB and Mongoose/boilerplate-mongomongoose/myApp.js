@@ -48,9 +48,11 @@ const createManyPeople = (arrayOfPeople, done) => {
 };
 
 const findPeopleByName = (personName, done) => {
-  Person.find({ name: personName }, (err, people) => {
+  // Find all people having a given name using Model.find()
+  // Use the function argument personName as the search key
+  Person.find({ name: personName }, function(err, peopleFound) {
     if (err) return done(err);
-    done(null, people);
+    done(null, peopleFound);
   });
 };
 
