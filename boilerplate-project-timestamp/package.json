@@ -2,6 +2,22 @@
   "name": "fcc-api-projects-boilerplate",
   "version": "0.0.1",
   "description": "An FCC Backend Challenge",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp"
+  ],
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
+  "bugs": {
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+  },
+  "license": "MIT",
+  "author": "freeCodeCamp <team@freecodecamp.org>",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -9,20 +25,5 @@
   "dependencies": {
     "express": "^4.12.4",
     "cors": "^2.8.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
-  },
-  "bugs": {
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
-  },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
-  "keywords": [
-    "node",
-    "express",
-    "freeCodeCamp"
-  ],
-  "license": "MIT"
+  }
 }
