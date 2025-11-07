@@ -66,9 +66,11 @@ const findOneByFood = (food, done) => {
 };
 
 const findPersonById = (personId, done) => {
-  Person.findById(personId, (err, person) => {
+  // Find the only person having a given _id using Model.findById()
+  // Use the function argument personId as the search key
+  Person.findById(personId, function(err, personFound) {
     if (err) return done(err);
-    done(null, person);
+    done(null, personFound);
   });
 };
 
