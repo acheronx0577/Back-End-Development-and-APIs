@@ -25,5 +25,6 @@
   "dependencies": {
     "express": "^4.12.4",
     "cors": "^2.8.0"
-  }
+  },
+  "devDependencies": {}
 }
