@@ -40,7 +40,8 @@ const createAndSavePerson = (done) => {
 };
 
 const createManyPeople = (arrayOfPeople, done) => {
-  Person.create(arrayOfPeople, (err, people) => {
+  // Create many people using Model.create() with the argument arrayOfPeople
+  Person.create(arrayOfPeople, function(err, people) {
     if (err) return done(err);
     done(null, people);
   });
