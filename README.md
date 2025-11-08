@@ -24,7 +24,7 @@ This repository portfolio contains all required projects needed to demonstrate b
 |------------|----------------|--------------|-----------|
 | ⏰ [**Timestamp Microservice**](https://github.com/acheronx0577/Full-Stack-Timestamp-Microservice) | Convert dates to Unix timestamps and UTC strings | ▶️ [Link](https://full-stack-timestamp-microservice-f.vercel.app) | ✅Completed |
 | 🛡️ [**Request Header Parser**](https://github.com/acheronx0577/Full-Stack-Request-Header-Parser-Microservice) | Parse client information from HTTP request headers | ▶️ [Link](https://full-stack-request-header-parser-mi.vercel.app) | ✅Completed |
-| 🔗 [**URL Shortener**](https://github.com/yourusername/url-shortener) | Create short URLs and track redirects | ▶️ [Link](https://your-url-shortener.vercel.app) | ✅Completed |
+| 🔗 [**URL Shortener**](https://github.com/acheronx0577/Full-stack-URL-Shortener-Microservice) | Create short URLs and track redirects | ▶️ [Link](https://full-stack-url-shortener-microservice-75huqzhhd.vercel.app/) | ✅Completed |
 | 📝 [**Exercise Tracker**](https://github.com/yourusername/exercise-tracker) | Track and manage user exercise routines | ▶️ [Link](https://your-exercise-tracker.vercel.app) | ✅Completed |
 | 📁 [**File Metadata**](https://github.com/yourusername/file-metadata) | Analyze and return file metadata information | ▶️ [Link](https://your-file-metadata.vercel.app) | ✅Completed |
 
